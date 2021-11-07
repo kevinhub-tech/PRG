@@ -1,2 +1,2 @@
 # PRG
-PRG
+Java Programming
