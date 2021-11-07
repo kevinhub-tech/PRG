@@ -1,0 +1,8 @@
+Q1. What type of protocol helps transferring files from local host to remote host?,A. HTTP,B. FTP,C. TCP,D. UDP,B,B. FTP
+Q2. What is the command that are applied to identify the settings in .aspx File?,A. Class,B. Directives,C. Events,D. Validation,B,B. Directives
+Q3. Which type of location that DLL files are stored in ASP.NET application?,A. App_Code,B. App_Data,C. Bin,D. App_LocalResources,C,C. Bin
+Q4. What is the representation of a conditional operation in C#?,A. ?:,B. is,C. as,D. *,A,A. ?:
+Q5.Which type of property of Array class checks if the array has a fixed size in C#?,A. IsFixedSize,B. IsStatic,C. Length,D. None of the above,A,A. IsFixedSize
+Q6. An applications that use a module which is packed with combination of functions and data is called?,A. Abandon,B. DLL,C. LCID,D. PICS,B,B. DLL
+Q7. In which part are the ASP.NET web application configuration settings defined?,A. ProcompiledApp.config,B. machine.config,C. Web.config,D. System.config,C,C. Web.config
+Q8. The default authentication mode for IIS is,A. Windows,B. Anonymous,C. Basic Authentication,D. None of the above,A,A. Windows

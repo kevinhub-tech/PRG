@@ -1,0 +1,8 @@
+Q1. What is the mechanism of recognizing and concentrating on the principal characteristics of a situation or object?,A.  Encapsulatioon,B. Polymorphism,C. Abstraction,D. Inheritance,C,C. Abstraction.
+Q2. Which declaration mentioned below is correct related to an object?,A. An object is what classes instantiated are from,B.  An object is an instance of a class,C. An object is a variable,D. An object is a reference to an attribute,B,B. An object is an instance of a class.
+Q3. An expression involving byte int and literal numbers is promoted to which of these?,A. int,B. long,C. byte,D. float,A, A. int.
+Q4. Which statement is false of the following: If a class inherits from some other class it should,A. Make use of the parent class’s capabilities,B. Over-ride or add the minimum to accomplish the derived class’ purpose,C. Over-ride all the methods of its parent class,D. Make sure the result “IS-A-KIND-OF” its base class,C,C. Over-ride all the methods of its parent class.
+Q5. There is an example of defining new classes by extending existing classes in object-oriented programming. What is it?,A. Encapsulation,B. Interface,C. Composition,D. inheritance,D,D. Inheritance.
+Q6. Which type of java package stores basic java language functions?,A. java.lang,B. java.io,C. java.net,D. java.util,A,A. java.lang.
+Q7. What is the technique that is used in wrapping up of data and functions into single units?,A. Encapsulation,B. Abstraction,C. Data Hiding,D. Polymorphism,A,A. Encapsulation.
+Q8. What does multiple inheritance mean?,A.one class inheriting from more super classes,B. more classes inheriting from one super class,C. more classes inheriting from more super classes,D. None of the above,A,A. one class inheriting from more super class.
