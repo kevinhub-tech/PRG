@@ -48,4 +48,4 @@ After solving algorithms and creating questions for the program, it has been imp
 
 ### Further Explaination
 
-For the further detail of the project, you can check it out here.<a href="https://drive.google.com/drive/folders/1FUtBorB0mu6eScg49ba6w-05Qk0d9jeP?usp=sharing"> Click the link!</a>
+For further detail of the project, you can check it out here.<a href="https://drive.google.com/drive/folders/1FUtBorB0mu6eScg49ba6w-05Qk0d9jeP?usp=sharing"> Click the link!</a>
